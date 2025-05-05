@@ -23,6 +23,9 @@ return {
         end,
       },
     },
+  },
+  --
+  {
     "nvim-neo-tree/neo-tree.nvim",
     opts = {
       filesystem = {
